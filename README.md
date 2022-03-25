@@ -12,7 +12,7 @@ npm install -g truffle
 ```
 More information about Truffle Suite [here](https://trufflesuite.com/).
 
-Truffle commands:
+## Truffle commands:
 
 To create a bare Truffle project with no smart contracts included:
 ```shell

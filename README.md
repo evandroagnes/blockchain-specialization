@@ -10,3 +10,4 @@ nvm install node
 # Install truffle
 npm install -g truffle
 ```
+More information about Truffle Suite [here](https://trufflesuite.com/)

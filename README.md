@@ -10,4 +10,19 @@ nvm install node
 # Install truffle
 npm install -g truffle
 ```
-More information about Truffle Suite [here](https://trufflesuite.com/)
+More information about Truffle Suite [here](https://trufflesuite.com/).
+
+Truffle commands:
+
+To create a bare Truffle project with no smart contracts included:
+```shell
+truffle init
+```
+To compile smart contracts:
+```shell
+truffle compile
+```
+To test smart contracts:
+```shell
+truffle test
+```

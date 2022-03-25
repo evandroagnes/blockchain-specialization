@@ -1,7 +1,7 @@
 # Blockchain Specialization
 Code from Coursera Blockchain Specialization (https://www.coursera.org/specializations/blockchain).
 
-This project uses Truffle Suite. Install it with commands below (you can change the nvm version, see [here](https://github.com/nvm-sh/nvm#installing-and-updating) the newest version:
+This project uses Truffle Suite. Install it with commands below (you can change the nvm version, see [here](https://github.com/nvm-sh/nvm#installing-and-updating) the newest version):
 
 ```shell
 # Truffle requires NodeJs and npm, if you've already have it, go to install truffle

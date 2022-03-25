@@ -22,7 +22,7 @@ To compile smart contracts:
 ```shell
 truffle compile
 ```
-To test smart contracts:
+To run the test:
 ```shell
 truffle test
 ```
